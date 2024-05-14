@@ -1,8 +1,8 @@
-console.log("Hello World!")
+console.log("Hello World!");
 
-console.log("Oii!")
+console.log("Oii!");
 
-console.log("Dizendo oi do console!")
+console.log("Dizendo oi do console!");
 
 
 //COMENTÁRIOS EM JS
